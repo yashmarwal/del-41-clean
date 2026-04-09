@@ -38,7 +38,7 @@ export default function About() {
           </motion.div>
           <motion.div initial={{ opacity: 0, x: 30 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }} transition={{ duration: 0.6 }}>
             <img
-              src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&q=80"
+              src="Restaurant_interior_photograph_202604091359.jpeg"
               alt="Del 41 Restaurant Interior"
               className="rounded-xl shadow-lg w-full h-80 object-cover"
               loading="lazy"
